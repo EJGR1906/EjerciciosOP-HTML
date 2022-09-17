@@ -1,0 +1,33 @@
+html{
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(30, 30, 30);
+}
+
+#titulo{
+    color: white;
+    font-style: italic;
+    margin: 5pt;
+}
+
+.encabezado{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#elemento-1{
+    color: red;
+    font-size: 2rem;
+
+}
+#elemento-2{
+    color: orange;
+}
+#elemento-3{
+    color: yellow;
+}
+#elemento-4{
+    color: green;
+}
+#elemento-5{
+    color: blue;
+}
