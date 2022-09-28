@@ -1,0 +1,10 @@
+div.container{
+    padding: 1rem;
+}
+div.columna{
+    background-color: lightskyblue;
+    border: 2px solid rgba(0, 157, 255, 0.3);
+}
+div.row{
+    gap: 5px;
+}
